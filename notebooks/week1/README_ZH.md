@@ -17,6 +17,8 @@
    - 了解Docker容器如何通信
    - 数据持久化和卷管理概念
 
+测试git提交
+
 <p align="center">
   <img src="../../static/week1_infra_setup.png" alt="第1周基础设施设置" width="700">
 </p>
